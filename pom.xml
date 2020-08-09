@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>orm</groupId>
-    <artifactId>spring-jpa-poc</artifactId>
+    <artifactId>spring-jpa</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
